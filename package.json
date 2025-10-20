@@ -1,0 +1,13 @@
+{
+  "name": "algohive-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "20.x" },
+  "scripts": {
+    "build": "vercel build"
+  },
+  "devDependencies": {
+    "vercel": "48.4.1"
+  }
+}
